@@ -12,9 +12,6 @@ This project focuses on analyzing and evaluating A/B testing data to optimize ad
 - [Analysis Workflow](#analysis-workflow)
 - [Results](#results)
 - [Visualizations](#visualizations)
-- [Technologies Used](#technologies-used)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
